@@ -1,10 +1,13 @@
 {
     "name": "@promo/prettier",
     "prettier": "@promo/prettier-config",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Prettier config",
     "main": "index.json",
     "repository": "git@github.com:JacobStrayer/prettier-config-JacobStrayer.git",
     "author": "Jacob",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "prettier": "^2.8.3"
+    }
 }
