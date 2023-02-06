@@ -1,6 +1,6 @@
 {
     "name": "@promo/Prettier",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Prettier config",
     "main": "index.json",
     "repository": "git@github.com:JacobStrayer/prettier-config-JacobStrayer.git",
